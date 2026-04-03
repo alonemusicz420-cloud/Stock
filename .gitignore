@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.python-version
+venv/
+env/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.pem
+.env*.local
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+data/
+models/
+results/
+
+# Vercel
+.vercel
+
+.vercel
+.env*.local
