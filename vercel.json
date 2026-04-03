@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "buildCommand": "cd nifty-predictor-frontend && npm install && npm run build",
-  "outputDirectory": "nifty-predictor-frontend/.next",
-  "installCommand": "cd nifty-predictor-frontend && npm install"
-}
